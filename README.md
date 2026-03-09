@@ -2,8 +2,6 @@
 
 This is your starting repository for the workshop!
 
-If you've chosen this version, then you've gone for a bit more of a challenge - good luck!
-
 ### Pre-requisites
 
 Homebrew - https://brew.sh/
@@ -12,9 +10,9 @@ Yarn - `brew install yarn`
 
 Node - `brew install node`
 
-### Running the app
+### Setting up the suite
 
-Run these commands:
+Run these commands first:
 
 `yarn install`
 
