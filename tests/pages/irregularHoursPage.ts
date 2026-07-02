@@ -47,5 +47,4 @@ export class IrregularHoursPage {
     }
 }
     
-
 export default IrregularHoursPage;
